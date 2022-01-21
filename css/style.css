@@ -1,0 +1,605 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Source Sans Pro;
+	
+}
+
+
+.container {
+	width: 100%;
+	max-width: 1420px;
+	/*max-width: 117px;*/
+	/*padding-right: 15px;
+	padding-left: 15px;*/
+	/*margin-right: auto;
+	margin-left: auto;*/
+	margin: 0 auto;
+
+}
+
+
+.header_background_picture {
+	width: 100%;
+	height: 700px;
+	background-image: url("../img/header_background.png");
+	background-size: 100%;
+	background-position-y: bottom;
+	background-repeat: no-repeat;
+
+	background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+
+
+
+.header_center_picture{
+	border: 1px solid #fff;
+	width: 135px;
+	height: 140px;
+	background-image: url("../img/header_center.svg");
+	margin-right: 30px;
+}
+
+.my_Fermalytics_btn {
+	color: #fff;
+	width: 151px;
+	height: 44px;
+	background-color: rgb(14, 93, 209);
+	border-radius: 8px;
+	border: none;
+	font-size: 16px;
+	display: flex;
+	margin-top: 25px;
+	margin-right: 25px;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+.my_Fermalytics_btn_display {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.heading_text{
+	margin-top: 180px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	
+}
+
+
+.fermenting_community_text {
+	max-width: 435px;
+	max-height: 70px;
+	font-size: 29px;
+	color: #fff;
+	margin: 0;
+	
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.about_the_possibility {
+	font-size: 32px;
+	color: #fff;
+	font-weight: bold;
+	margin-bottom: 35px;
+	margin-top: 0;
+
+}
+
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.download_fermalytics {
+	font-size: 36px;
+	color: rgb(0, 53, 169);
+	margin-top: 250px;
+	margin-bottom: 10px;
+
+}
+
+.download_fermalytics_1{
+	margin-top: 0;
+	font-size: 36px;
+	color: rgb(0, 53, 169);
+	margin-bottom: 10px;
+}
+
+.sup {
+	font-size: 16px;
+}
+
+.mobile_app_for_the_analytic_cheesemaker {
+	color: rgb(0, 53, 169);
+	margin-bottom: 40px;
+}
+
+.btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 85px;
+	height: 44px;
+	border-radius: 8px;
+	border: 1px solid rgb(229, 229, 229);
+	background-color: #FFF;
+	margin-right: 4px;
+
+}
+
+.fluid {
+	width: 100%;
+}
+
+.buttons_display {
+	display: flex;
+}
+
+.section_1 {
+	margin-top: 190px;
+}
+
+.row {
+	display: flex;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.col {
+
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 100%;
+}
+
+.col-4 {
+	width: 33.333333%;
+}
+
+.col-5 {
+	width: 41.666667%;
+}
+
+
+.col-6 {
+	
+	width: 50%;
+}
+
+.col-7 {
+	width: 58.333333%;
+}
+
+.col-8 {
+	 width: 66.666667%;
+}
+
+.col-12 {
+	ma-width: 100%;
+}
+
+.img_chart_size {
+	width: 602px;
+	height: 308px;
+}
+
+.section_1_display {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+.access_to_fermalytics_global {
+	width: 651px;
+	height: 108px;
+	text-align: center;
+	color: rgb(19, 112, 251);
+	font-weight: 500;
+	font-size: 28px;
+	margin: 0;
+	font-family: Source Sans Pro;
+
+}
+
+
+
+
+.about_the_support_of_The_Fermenters_community {
+	width: 652px;
+	height: 66px;
+	font-size: 18px;
+	color: rgb(72, 72, 72);
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 60px;
+	font-family: Lato;
+	opacity: .9;
+}
+
+.try_premium_btn_display {
+	text-align: center;
+}
+
+.try_premium_btn {
+	width: 150px;
+	height: 40px;
+	background-color: rgb(243, 178, 42);
+	border-radius: 8px;
+	font-weight: 500;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
+	color: #fff;
+}
+
+.section_2 {
+	margin-top: 150px;
+}
+
+
+
+
+	
+
+.heading_advantages {
+	width: 396px;
+	height: 250px;
+	margin-top: 0;
+}
+
+
+.heading_advantages ul  li {
+	list-style-type: none;
+	
+
+}
+
+
+.advantages {
+	margin-bottom: 52px;
+	font-size: 28px;
+	font-family:  Source Sans Pro;
+	color: rgb(19, 112, 251);
+	
+}
+
+.advantages_list {
+	
+	padding: 0;
+}
+
+.advantages_list li {
+	position: relative;
+	margin-bottom: 30px;
+	font-size: 20px;
+	font-family: Lato;
+	color: rgb(72, 72, 72);
+	padding-left: 40px;
+
+}
+
+
+.advantages_list li::before {
+	content: '';
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	top: 2.5px;
+	left: 0;
+	background-repeat: no-repeat;
+	border-radius: 100%;
+	border: 1px solid rgb(19, 112, 251);
+	background-color: rgb(19, 112, 251);
+}
+
+.advantages_display {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+
+.advantages_img_size {
+	width: 792px;
+	height: 365px;
+
+}
+
+.section_3 {
+	margin-top: 150px;
+}
+
+.fermalytics_header {
+	font-size: 28px;
+	font-family:  Source Sans Pro;
+	color: rgb(19, 112, 251);
+	margin-bottom: 40px;
+}
+
+.fermalytics_text {
+	font-weight: 300;
+	color: rgb(0, 0, 0);
+	opacity: 1;
+	font-size: 18px;
+	text-align: justify;
+	font-family: Source Sans Pro;
+	margin-bottom: 20px;
+}
+
+.end_text {
+	margin-bottom: 0;
+}
+
+.footer_btn {
+	display: flex;
+	width: 750px;
+	justify-content: flex-end;
+}
+.show_more_btn {
+	font-size: 18px;
+	font-family: Source Sans Pro;
+	color: rgb(0, 53, 169);
+	margin-right: 55px;
+	cursor: pointer;
+	border: none;
+	background-color: #fff;
+	padding: 0;
+
+}
+
+.Cheesemaking_process_header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+	font-weight: 600;
+	color: rgb(14, 93, 209);
+	margin-bottom: 20px;
+	line-height: 20px;
+	font-family: Source Sans Pro;
+	margin-top: 25px;
+}
+
+
+
+.section_4 {
+	margin-top: 150px;
+}
+
+.brewing_process_header {
+	font-family: Source Sans Pro;
+	font-weight: 600;
+	font-size: 20px;
+	color: rgb(14, 93, 209);
+	margin-bottom: 20px;
+	text-align: center;
+	margin-top: 0;
+
+}
+
+.aboutImg_size {
+	
+	max-width: 561px;
+	max-height: 361px;
+
+}
+
+.about_fermalytics_header {
+	font-family: Source Sans Pro;
+	font-weight: 500;
+	text-align: left;
+	color: rgb(19, 112, 251);
+	font-size: 28px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+.pages_about_fermalytics {
+	font-family:  Source Sans Pro;
+	font-weight: 300;
+	font-size: 18px;
+	color: rgb(0, 0, 0);
+	text-align: justify;
+}
+
+.footer_btn_1 {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.btn_1 {
+	margin-right: 0;
+	margin-top: 10px;
+}
+
+.footer {
+	margin-top: 100px;
+}
+
+.footer {
+	background-image: url('../img/footer.png');
+	width: 100%;
+	height: 810px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer_text {
+	font-size: 32px;
+	margin: auto;
+	text-align: center;
+	max-width: 975px;
+	color: #fff;
+	font-family: Lato;
+
+}
+
+.footer_btn_size {	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.try_premium {
+	width: 175px;
+	height: 44px;
+	margin-top: 50px;
+	font-family: Source Sans Pro;
+	font-weight: 500;
+	color: rgb(19, 112, 251);
+	text-align: center;
+	font-size: 16px;
+	border-radius: 8px;
+	border: none;
+	cursor: pointer;
+}
+
+.input_email {
+
+	height: 35px;
+	border: none;
+	font-size: 20px;
+	color: rgb(72, 72, 72);
+	font-family: Source Sans Pro;
+	margin-left: 14px;
+	opacity: .8;
+}
+
+.email_img {
+	width: 18px;
+	height: 14px;
+	
+
+}
+
+.input_display {
+	width: 400px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	border-bottom: 1px solid rgb(182, 182, 182);
+
+}
+
+.input_display_position {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.input_display_position_1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 15px;
+}
+
+.textarea_size {
+	max-width: 400px;
+	min-height: 180px;
+	border: 1px solid rgb(182, 182, 182);
+	border-radius: 8px;
+	padding: 10px 15px 0px 15px;
+	margin-top: 20px;
+	position: relative;
+
+}
+
+
+.textarea_position {
+	width: 364px;
+	height: 160px;
+	border: none;
+	resize: none;
+	font-size: 20px;
+	opacity: .8;
+	font-family: Source Sans Pro;
+	
+
+}
+
+.number {
+	position: absolute;
+	font-family: Source Sans Pro;
+	bottom: 5px;
+	right: 10px;
+	font-size: 14px;
+	margin: 0;
+	color: rgb(182, 182, 182);
+
+
+}
+
+.textarea_position_display {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.contact_us {
+	width: 400px;
+	height: 44px;
+	font-size: 20px;
+	font-weight: 500;
+	color: rgb(255, 255, 255);
+	background-color: rgb(182, 182, 182);
+	border: none;
+	cursor: pointer;
+	border-radius: 8px;
+	margin-top: 30px;
+}
+
+.contact_us_btn_size {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer_link {
+	display: flex;
+	justify-content: space-between;
+	width: 290px;
+	height: 50px;
+	margin-top: 80px;
+}
+
+.footer_link a{
+	text-decoration: underline;
+	color: #000;
+	font-size: 16px;
+	font-weight: 300;
+	color: rgb(72, 72, 72);
+	cursor: pointer;
+	font-family: Source Sans Pro;
+}
+
+.footer_link_display {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

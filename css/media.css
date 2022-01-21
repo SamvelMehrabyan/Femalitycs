@@ -1,0 +1,845 @@
+@media (min-width: 320px){
+	.download_fermalytics{
+		display: none;
+	}
+
+	.download_fermalytics_1{
+		display: block;
+	}
+
+	.container{
+		max-width: 302px;
+	}
+
+	.header_center_picture{
+		margin-right: 15px;
+	}
+
+
+}
+
+
+
+
+
+@media (min-width: 576px){
+	.container {
+		width: 100%;
+		max-width: 534px;
+		padding: 0 20px;
+	}
+}
+
+
+
+@media (min-width: 768px){
+	.header_background_picture{
+		
+		height: 426px;
+	}
+
+	.footer {
+		height: 450px;
+	}
+
+	.container{
+		width: 100%;
+		max-width: 600px;
+	}
+	
+
+	.my_Fermalytics_btn {
+		width: 151px;
+		height: 44px;
+	}
+
+	.advantages_display_1{
+		display: none;
+	}
+
+	.fermalytics_header_size{
+		display: block;
+	}
+
+	.fermalytics_header_size_1{
+		display: none;
+	}
+
+	.whyFermImg_img_size {
+		width: 567px;
+		margin: 0 auto;
+
+	}
+}
+
+
+@media (min-width: 800px){
+	.header_background_picture{
+		height: 444px;
+	}
+}
+
+@media (min-width: 850px) {
+	.header_background_picture{
+		height: 472px;
+	}
+}
+
+
+@media (min-width: 915px) {
+	.header_background_picture{
+		height: 508px;
+	}
+}
+
+
+
+@media (min-width: 991px){
+	.container {
+		width: 100%;
+		
+		padding: 0 30px;
+	}
+
+	.header_background_picture{
+		height: 550px;
+	}
+	.img_chart_size{
+		width: 337px;
+	}
+
+	.footer {
+		height: 480px;
+	}
+
+	
+}
+
+@media (min-width: 1100px){
+	.footer {
+		height: 550px;
+	}
+}
+
+@media (min-width: 1200px){
+	.footer {
+		height: 595px;
+	}
+}
+
+@media (min-width: 1280px){
+	.container{
+		width: 100%;
+		max-width: 1000px;
+	}
+
+	.header_background_picture{
+		height: 580px;
+	}
+
+	.download_fermalytics_1{
+		display: none;
+	}
+
+	.download_fermalytics{
+		display: block;
+	}
+
+	.footer {
+		height: 606px;
+	}
+}
+
+
+@media (min-width: 1400px){
+	.header_background_picture{
+		height: 600px;
+	}
+}
+
+
+
+@media (min-width: 1500px){
+	.container{
+		width: 100%;
+		max-width: 1170px;
+	}
+
+	.img_chart_size{
+		width: 514px;
+	}
+
+	.table_section_2 {
+		width: 544px;
+	}
+
+	.fermalytics_picture {
+		width: 547px;
+	}
+
+	.advantages_img_size {
+		width: 670px;
+	}
+
+	.heading_advantages {
+		margin-left: 215px;
+	}
+
+	.header_background_picture{
+		height: 690px;
+	}
+
+	.footer {
+		height: 810px;
+	}
+
+	
+}
+
+@media (min-width: 1600px){
+	.header_background_picture{
+		height: 700px;
+	}
+}
+
+
+
+@media (min-width: 1700px){
+	.container {
+		width: 100%;
+		width: 1420px;
+	
+
+	}
+}
+
+@media (min-width: 1920px){
+	.container {
+		width: 100%;
+		max-width: 1500px;
+	}
+
+	.access_to_fermalytics_global {
+		width: 602px;
+		margin: 0 auto;
+	}
+
+	.img_chart_size{
+		width: 609px;
+	}
+
+	.access_to_fermalytics_global{
+		width: 660px;
+	}
+
+	.about_the_support_of_The_Fermenters_community {
+		width: 660px;
+	}
+
+	.table_section_2 {
+		width: 639px;
+	}
+
+	.fermalytics_picture {
+		width: 639px;
+	}
+}
+
+
+
+@media (min-width: 1500px) and (max-width: 1919px){
+	.access_to_fermalytics_global {
+		width: 551px;
+		margin: 0 auto;
+	
+	}
+
+	.about_the_support_of_The_Fermenters_community{
+		width: 551px;
+		margin: 0 auto;
+		margin-top: 20px;
+		margin-bottom: 60px;
+	}
+
+	.whyFermImg_img_size {
+		width: 484px;
+	}
+
+	.fermalytics_text {
+		
+	}
+
+	.show_more_btn {
+		margin-right: 0;
+	}
+
+	.aboutImg_size {
+		width: 484px;
+	}
+}
+
+
+
+
+@media (min-width: 1700px) and (max-width: 1919px){
+	/*.container {
+		padding: 0 100px;
+	}*/
+}
+
+@media (min-width: 1400px) and (max-width: 1919px){
+
+}
+
+
+@media (min-width: 1280px) and (max-width: 1500px){
+	.container {
+		padding: 0 70px;
+	}
+
+	.download_fermalytics {
+		margin-top: 160px;
+	}
+	.about_the_support_of_The_Fermenters_community{
+		width: 570px;
+	}
+
+	.access_to_fermalytics_global{
+		font-size: 24px;
+		width: 570px;
+		margin: 0 auto;
+	}
+	
+
+	.about_the_support_of_The_Fermenters_community{
+		width: 540px;
+		max-height: 66px;
+		font-size: 16px;
+	}
+
+	.whyFermImg_img_size{
+		width: 484px;
+	}
+
+	
+}
+
+@media (min-width: 768px) and (max-width: 850px){
+	.img_chart_size{
+		width: 264px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	.Cheesemaking_process_header_size{
+		margin-top: 65px;
+		margin-left: 50px;
+	}
+
+	.fermalytics_header{
+		margin-bottom: 30px;
+	}
+
+	.access_to_fermalytics_global{
+		width: 484px;
+	}
+
+	.whyFermImg_img_size{
+		width: 300px;
+	}
+
+	.container {
+		max-width: 680px;
+	}
+
+	.heading_text{
+		margin-top: 50px;
+	}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1280px){
+	
+
+	.access_to_fermalytics_global{
+		width: 540px;
+	}
+
+	.access_to_fermalytics_global{
+		font-size: 24px;
+	}
+
+	.about_the_support_of_The_Fermenters_community{
+		font-size: 16px;
+	}
+
+	
+
+	.img_chart_size{
+		max-width: 315px;
+	}
+
+
+	.advantages{
+		font-size: 24px;
+	}
+
+	.advantages_list li {
+		font-size: 16px;
+
+	}
+
+	.pages_about_fermalytics{
+		font-size: 16px;
+	}
+
+	.footer_text {
+		font-size: 28px;
+	}
+
+	.show_more_btn {
+		font-size: 16px;
+		margin-right: 0;
+	}
+
+	.footer_text{
+		width: 731px;
+	}
+
+
+	
+}
+
+
+@media (min-width: 1500px) and (max-width: 1500px){
+	.download_fermalytics{
+		margin-top: 250px;
+	}
+}
+
+
+
+@media (min-width: 1140px) and (max-width: 1280px){
+	.container {
+		padding: 0 60px;
+	}
+
+	
+}
+
+
+@media (min-width: 991px) and (max-width: 1500px){
+	.fermalytics_text{
+		
+		font-size: 16px;
+	}
+	.whyFermImg_img_size{
+		
+		max-width: 400px;
+	}
+
+	.about_the_support_of_The_Fermenters_community{
+		font-size: 16px;
+
+	}
+
+	.heading_text {
+		margin-top: 130px;
+	}
+}
+
+@media (min-width: 991px) and (max-width: 1280px){
+	.container{
+		padding: 0 60px;
+	}
+
+	.fermalytics_text {
+		
+
+	}
+
+
+	.access_to_fermalytics_global{
+		max-width: 530px;
+	}
+
+	.about_the_support_of_The_Fermenters_community{
+		max-width: 530px;
+	}
+
+	.container {
+		width: 100%;
+		max-width: 900px;
+	}
+}
+
+
+
+@media (min-width: 991px) and (max-width: 1280px){
+	.table_section_2{
+		width: 418px;
+	}
+
+	.fermalytics_picture{
+		width: 418px;
+	}
+
+	.img_chart_size{
+		width: 476px;
+	}
+
+	.access_to_fermalytics_global{
+		margin: 0 auto;
+	}
+	.download_fermalytics_1_display{
+		max-width: 791px;
+		margin: 0 auto;
+	}
+
+	.download_fermalytics{
+
+	}
+}
+@media (min-width: 991px) and (max-width: 1140px){
+	.container {
+		padding: 0 40px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	.container {
+		padding: 0 30px;
+	}
+
+	.advantages_img_size{
+		width: 417px;
+	}
+
+	.whyFermImg_img_size{
+		max-width: 370px;
+	}
+
+	.fermalytics_text{
+		
+		font-size: 15px;
+	}
+
+	.table_section_2 {
+		width: 318px;
+		max-width: 418px;
+	}
+
+	.fermalytics_picture{
+		width: 318px;
+		max-width: 418px;
+	}
+
+	
+
+	.access_to_fermalytics_global{
+		max-width: 409px;
+		width: 432px;
+	}
+
+	.about_the_support_of_The_Fermenters_community{
+		max-width: 409px;
+		width: 432px;
+	}
+
+	.advantages_display{
+		align-items: inherit;
+	}
+
+	.advantages{
+		
+		margin-top: 0;
+		margin-left: 80px;
+	}
+
+
+	.advantages_list{
+		margin-left: 80px;
+	}
+
+
+	.section_1_display {
+		align-items: stretch;
+	}
+	
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1500px){
+	
+
+
+	/*.download_fermalytics{
+		margin-top: 150px;
+	}*/
+}
+
+@media (min-width: 600px) and (max-width: 767px){
+	.container{
+		min-width: 550px;
+	}
+}
+
+@media(min-width: 341px) and (max-width: 767px){
+	.footer_text{
+		width: 335px;
+	}
+}
+
+
+@media (min-width: 320px) and (max-width: 768px){
+	.container {
+		padding: 0 20px;
+	}
+}
+
+
+@media(min-width: 320px) and (max-width: 340px){
+	.container {
+		max-width: 280px;
+	}
+	.header_center_picture{
+		margin-left: 15px;
+	}
+
+	.footer_text{
+		width: 303px;
+	}
+
+}
+
+
+
+
+@media(max-width: 767px){
+	/*.heading_text{
+		justify-content: flex-start;
+		margin-left: 100px;
+	}*/
+
+
+	.header_background_picture{
+		height: 320px;
+	}
+
+	.header_center_picture{
+		background-size: 100%;
+		width: 68px;
+		height: 70px;
+	}
+
+	.about_the_possibility{
+		font-size: 14px;
+		margin-bottom: 19px;
+	}
+
+	.fermenting_community_text{
+		font-size: 14px;
+	}
+
+	.heading_text{
+		margin-top: 70px;
+	}
+
+	.download_fermalytics_1{
+		font-size: 18px;
+	}
+
+	.mobile_app_for_the_analytic_cheesemaker{
+		font-size: 10px;
+		margin-bottom: 30px;
+	}
+
+	
+
+	.download_fermalytics_1_display{
+		padding: 0 30px;
+	}
+
+	.section_1_display{
+		display: block;
+
+	}
+
+	.img_chart_size{
+		width: auto;
+		height: auto;
+	}
+
+	.access_to_fermalytics_global{
+		font-size: 20px;
+		height: auto;
+		width: auto;
+	}
+
+	.about_the_support_of_The_Fermenters_community{
+		width: auto;
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+
+	.ml-150 {
+		margin-top: 50px;
+	}
+
+	.section_1{
+		margin-top: 80px;
+	}
+
+	.row {
+		display: block;
+		width: 100%;
+	}
+
+	.fermalytics_picture{
+		margin-top: 20px;
+	}
+
+	.col-6 {
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	.advantages_img_size{
+		max-width: 300px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.advantages{
+		font-size: 20px;
+		margin-bottom: 20px;
+		margin-top: 30px;
+		
+	}
+
+	.advantages_list li {
+		font-size: 14px;
+		margin-bottom: 10px;
+	}
+
+	.advantages_display{
+		display: none;
+	}
+
+	.advantages_display_1{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		height: 126px;
+	}
+
+	.advantages_list li::before{
+		width: 11px;
+		height: 11px;
+	}
+
+	.fermalytics_header_size{
+		display: none;
+	}
+
+	.fermalytics_header_size_1{
+		display: block;
+	}
+
+	.fermalytics_header{
+		font-size: 20px;
+	}
+
+	.fermalytics_text{
+		font-size: 14px;
+	}
+
+	.show_more_btn{
+		font-size: 14px;
+		margin-right: 0;
+	}
+
+	.col-5 {
+		width: 100%;
+	}
+
+	.col-7 {
+		width: 100%;
+	}
+
+	.aboutImg_size{
+		width: auto;
+	}
+
+	.pages_about_fermalytics{
+		font-size: 14px;
+	}
+
+	.my_Fermalytics_btn{
+		width: 116px;
+		height: 30px;
+		font-size: 12px;
+	}
+
+	.about_the_support_of_The_Fermenters_community{
+		height: auto;
+	}
+
+	.section_2{
+		margin-top: 70px;
+	}
+
+	.section_3{
+		margin-top: 70px;
+	}
+
+	.advantages_list  li {
+		padding-left: 20px;
+	}
+
+	.fermalytics_header{
+		margin-top: 70px;
+		margin-bottom: 20px;
+	}
+
+	.section_4{
+		margin-top: 70px;
+	}
+
+
+	.about_fermalytics_header{
+		font-size: 20px;
+		margin-top: 70px;
+	}
+
+	.footer_text{
+		font-size: 16px;
+
+		height: 76px;
+	}
+
+	.try_premium{
+		margin-top: 20px;
+		width: 150px;
+		height: 40px;
+	}
+
+	.footer{
+		height: 280px;
+	}
+
+
+	
+}
+
+
+@media(max-width: 547px){
+	.textarea_position {
+		width: 257px;
+	}
+}
